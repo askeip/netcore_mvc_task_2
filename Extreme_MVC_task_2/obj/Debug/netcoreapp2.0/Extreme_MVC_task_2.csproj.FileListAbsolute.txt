@@ -1,0 +1,11 @@
+C:\Users\Евгений\source\repos\Extreme_MVC_task_2\Extreme_MVC_task_2\bin\Debug\netcoreapp2.0\Extreme_MVC_task_2.deps.json
+C:\Users\Евгений\source\repos\Extreme_MVC_task_2\Extreme_MVC_task_2\bin\Debug\netcoreapp2.0\Extreme_MVC_task_2.runtimeconfig.json
+C:\Users\Евгений\source\repos\Extreme_MVC_task_2\Extreme_MVC_task_2\bin\Debug\netcoreapp2.0\Extreme_MVC_task_2.runtimeconfig.dev.json
+C:\Users\Евгений\source\repos\Extreme_MVC_task_2\Extreme_MVC_task_2\bin\Debug\netcoreapp2.0\Extreme_MVC_task_2.dll
+C:\Users\Евгений\source\repos\Extreme_MVC_task_2\Extreme_MVC_task_2\obj\Debug\netcoreapp2.0\Extreme_MVC_task_2.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\source\repos\Extreme_MVC_task_2\Extreme_MVC_task_2\obj\Debug\netcoreapp2.0\Extreme_MVC_task_2.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\Extreme_MVC_task_2\Extreme_MVC_task_2\obj\Debug\netcoreapp2.0\Extreme_MVC_task_2.AssemblyInfoInputs.cache
+C:\Users\Евгений\source\repos\Extreme_MVC_task_2\Extreme_MVC_task_2\obj\Debug\netcoreapp2.0\Extreme_MVC_task_2.AssemblyInfo.cs
+C:\Users\Евгений\source\repos\Extreme_MVC_task_2\Extreme_MVC_task_2\bin\Debug\netcoreapp2.0\Extreme_MVC_task_2.pdb
+C:\Users\Евгений\source\repos\Extreme_MVC_task_2\Extreme_MVC_task_2\obj\Debug\netcoreapp2.0\Extreme_MVC_task_2.dll
+C:\Users\Евгений\source\repos\Extreme_MVC_task_2\Extreme_MVC_task_2\obj\Debug\netcoreapp2.0\Extreme_MVC_task_2.pdb
